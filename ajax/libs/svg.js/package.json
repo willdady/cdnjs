@@ -1,7 +1,7 @@
 {
     "name": "svg.js",
     "filename": "svg.min.js",
-    "version": "0.32",
+    "version": "1.0rc3",
     "description": "A lightweight JavaScript library for manipulating and animating svg using an uncluttered syntax.",
     "homepage": "http://svgjs.com/",
     "keywords": [
@@ -12,7 +12,7 @@
    "maintainers": [
        {
            "name": "Wout Fierens",
-           "web": "http://mick-wout.com/"
+           "web": "http://woutfierens.com/"
        }
    ],
    "repositories": [

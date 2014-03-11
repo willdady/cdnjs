@@ -1,7 +1,7 @@
 {
   "name":         "sbt",
-  "version":      "0.09.26",
-  "filename":     "main.js",
+  "version":      "1.0.0.20140113-0420",
+  "filename":     "sbt-core-dojo-amd.js",
   "description":  "Social Business Toolkit minified&aggregated files",
   "author":       "IBM",
   "homepage":     "http://www.openntf.org/internal/home.nsf/project.xsp?action=openDocument&name=Social%20Business%20Toolkit%20SDK",

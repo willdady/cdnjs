@@ -1,8 +1,8 @@
 {
   "name": "bootbox.js",
   "filename": "bootbox.min.js",
-  "version": "4.0.0",
-  "description": "Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework",
+  "version": "4.2.0",
+  "description": "Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's Bootstrap framework",
   "repository": {
     "type": "git",
     "url": "git://github.com/makeusabrew/bootbox.git"

@@ -1,7 +1,7 @@
 {
     "name": "boexfi",
-    "filename": "",
-    "version": "",
+    "filename": "mijs.js",
+    "version": "1.0.0",
     "description": "Some sample files used in the implementation of BoxOpi website.",
     "homepage": "http://www.boxopi.tk/",
     "keywords": [

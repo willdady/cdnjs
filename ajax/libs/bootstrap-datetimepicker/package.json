@@ -1,21 +1,25 @@
 {
   "name": "bootstrap-datetimepicker",
   "filename": "js/bootstrap-datetimepicker.min.js",
-  "version": "0.0.11",
-  "description": "A datetime picker for Twitter Bootstrap",
-  "homepage": "https://github.com/tarruda/bootstrap-datetimepicker",
+  "version": "2.1.30",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eonasdan/bootstrap-datetimepicker.git"
+  },
   "keywords": [
-    "twitter",
+    "twitter-bootstrap",
     "bootstrap",
     "datepicker",
-    "datetimepicker"
+    "datetimepicker",
+    "timepicker",
+	"moment"
   ],
-  "maintainers": [{
-    "name": "Thiago de Arruda",
-    "web": "https://github.com/tarruda"
-  }],
-  "repositories": [{
-    "type": "git",
-    "url": "https://github.com/tarruda/bootstrap-datetimepicker.git"
-  }]
+  "devDependencies": {
+    "uglify-js": "*",
+    "less": "*",
+    "mocha-phantomjs": "*",
+    "mocha": "*",
+    "chai": "*",
+    "coffee-script": "*"
+  }
 }

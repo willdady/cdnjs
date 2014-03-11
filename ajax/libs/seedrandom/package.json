@@ -1,22 +1,32 @@
 {
-    "name": "seedrandom",
-    "filename": "seedrandom.min.js",
-    "version": "2.2",
-    "description": "seeded random number generator for Javascript",
-    "homepage": "https://github.com/davidbau/seedrandom",
-    "keywords": [
-        "random number",
-        "seed"
-    ],
-    "maintainers": [
-        {
-            "name": "David Bau"
-        }
-    ],
-   "repositories": [
-       {
-           "type": "git",
-           "url": "https://github.com/davidbau/seedrandom.git"
-       }
-   ]
+  "name": "seedrandom",
+  "npmName": "seedrandom",
+  "npmFileMap": [
+    {
+      "basePath": "/",
+      "files": [
+        "seedrandom.js",
+        "seedrandom.min.js"
+      ]
+    }
+  ],
+  "version": "2.3.3",
+  "filename": "seedrandom.min.js",
+  "keywords": [
+    "random number",
+    "seed"
+  ],
+  "description": "Seeded random number generator for Javascript.",
+  "main": "seedrandom.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidbau/seedrandom.git"
+  },
+  "author": "David Bau",
+  "license": "BSD",
+  "bugs": "https://github.com/davidbau/seedrandom/issues",
+  "homepage": "https://github.com/davidbau/seedrandom"
 }

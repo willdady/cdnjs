@@ -1,7 +1,7 @@
 {
     "name": "html2canvas",
     "filename": "html2canvas.js",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "description": "This script allows you to take \"screenshots\" of webpages or parts of it, directly on the users browser.",
     "homepage": "http://html2canvas.hertzen.com/",
     "keywords": [
@@ -13,6 +13,10 @@
        {
            "name": "Rick van Galen",
            "email": "r.vangalen@twenteacademy.nl"
+       },
+       {
+           "name": "Jayen Ashar",
+           "email": "jayen@suburbchooser.com"
        }
    ],
    "repositories": [

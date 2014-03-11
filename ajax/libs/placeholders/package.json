@@ -1,7 +1,7 @@
 {
 	"name": "placeholders",
 	"filename": "placeholders.js",
-	"version": "2.1.0",
+	"version": "3.0.2",
 	"description": "A JavaScript polyfill for the HTML5 placeholder attribute",
 	"homepage": "http://jamesallardice.github.io/Placeholders.js/",
 	"keywords": [

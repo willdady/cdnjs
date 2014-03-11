@@ -1,8 +1,8 @@
 {
   "name": "bluebird",
-  "description": "Full featured Promises/A+ implementation with exceptionally good performance",
+  "description": "Bluebird is a fully featured Promise library with focus on innovative features and performance.",
   "filename": "bluebird.min.js",
-  "version": "0.7.10-1",
+  "version": "1.0.0",
   "keywords": [
     "promise",
     "performance",
